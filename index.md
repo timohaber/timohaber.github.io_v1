@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Timo Haber
 
-You can use the [editor on GitHub](https://github.com/timohaber/timohaber.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD Student in [Economics](https://www.econ.cam.ac.uk/people/phd/tfh27) at the [University of Cambridge](https://www.cam.ac.uk/)
 
 ### Markdown
 
