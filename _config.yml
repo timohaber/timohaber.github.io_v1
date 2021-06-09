@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -280,3 +281,8 @@ defaults:
       comments: # true
       share: true
       related: true
+=======
+theme: jekyll-theme-cayman
+title: Timo Haber
+description: PhD Student in Economics at the University of Cambridge
+>>>>>>> a0c9cafef6e78fcd4ef8bb2e637bdb12457c1ce3
