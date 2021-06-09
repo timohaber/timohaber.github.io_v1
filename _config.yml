@@ -98,10 +98,10 @@ author:
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a PhD student at the Faculty of Economics at the University of Cambridge."
   location         : "Cambridge, UK"
-  email            : "habertimo [at] gmail.com"
+  email            : "habertimo@gmail.com"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/timohaber/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
