@@ -1,6 +1,6 @@
 ## Timo Haber
 
-I am a PhD Student in [Economics](https://www.econ.cam.ac.uk/people/phd/tfh27) at the [University of Cambridge](https://www.cam.ac.uk/)
+I am a PhD Student in [Economics](https://www.econ.cam.ac.uk/people/phd/tfh27) at the [University of Cambridge](https://www.cam.ac.uk/). My supervisor is [Elisa Faraglia](https://sites.google.com/site/elisafaragliapage/).
 
 ### Markdown
 
