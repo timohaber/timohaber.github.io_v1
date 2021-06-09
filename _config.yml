@@ -146,6 +146,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /test # ignore Minimal Mistakes /test
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -172,7 +173,6 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -208,11 +208,6 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-permalink: /about/
-permalink: /research/
-permalink: /cv/
-permalink: /contact/
-permalink: /teaching/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
