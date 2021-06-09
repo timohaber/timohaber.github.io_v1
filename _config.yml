@@ -21,16 +21,16 @@
 title: Timo Haber
 email: habertimo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD student at the University of Cambridge. My research interests 
+  I am a PhD student at the University of Cambridge. My research interests are in macroeconomics, in particular monetary economics, financial frictions and heterogeneous agent models.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: TimoHaber
 github_username:  timohaber
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
