@@ -101,7 +101,7 @@ author:
   email            : "habertimo@gmail.com"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/timohaber/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
