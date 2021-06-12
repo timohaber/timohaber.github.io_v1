@@ -9,5 +9,6 @@ Austin Robinson Building,\
 Sidgwick Ave,\
 Cambridge,\
 CB3 9DD\
-Google Scholar:\
-Faculty webpage:\
+***
+[Google Scholar](https://scholar.google.com/citations?user=OaESsXAAAAAJ&hl=en&oi=ao)\
+[Faculty webpage](https://www.econ.cam.ac.uk/people/phd/tfh27)\
