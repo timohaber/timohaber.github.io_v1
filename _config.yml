@@ -97,7 +97,7 @@ author:
   name             : "Timo Haber"
   avatar           : "/assets/images/avatar1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student in Economics"
-  location         : "University of Cambridge"
+  location         : "[University of Cambridge](https://www.econ.cam.ac.uk/people/phd/tfh27)"
   email            : "habertimo@gmail.com"
   links:
     - label: "LinkedIn"
