@@ -6,7 +6,9 @@ permalink: /teaching/
 ## Undergraduate Teaching
 <details><summary> 
 
-[Monetary Economics and International Macroeconomics](https://www.econ.cam.ac.uk/ba/outlines/Part_IIA_Paper_2.pdf) | 2018-2021 
+<a href="https://www.econ.cam.ac.uk/ba/outlines/Part_IIA_Paper_2.pdf">Monetary Economics and International Macroeconomics</a>
+
+<!-- [Monetary Economics and International Macroeconomics](https://www.econ.cam.ac.uk/ba/outlines/Part_IIA_Paper_2.pdf) | 2018-2021  -->
 
 </summary>
 <ol>
@@ -23,5 +25,14 @@ exchange rates and currency crises. </li>
 </details>
 
 ## Graduate Teaching
+
+<details><summary> 
+
+Macroeconomics | 2018-2021 
+
+</summary>
+The course provides the foundations and core topics of advanced macroeconomic theory that is used for macroeconomic research. It includes techniques (e.g. definition of general equilibrium, elements of dynamic programming and optimal control theory, etc.) and two broad macroeconomic topics, economic growth and business cycle theory (in the context of DSGE modelling).
+</details>
+
 
 
