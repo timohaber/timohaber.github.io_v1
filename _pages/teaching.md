@@ -7,8 +7,6 @@ permalink: /teaching/
 <details><summary> Part IIA - Paper 2 </summary>
 <p>
 
-[Monetary Economics and International Macroeconomics](https://www.econ.cam.ac.uk/ba/outlines/Part_IIA_Paper_2.pdf)  
-
 - Monetary economics: Monetary theory, policy and financial system, including rational
 expectations, policy ineffectiveness (New Classical economics), inflation bias, money
 demand, money supply process and banking system, central bank and monetary operating
@@ -18,6 +16,7 @@ monetary transmission, and financial crises.
 including asset market approach, exchange rate overshooting, flexible-price monetary
 model, Balassa-Samuelson effect, international macroeconomic interdependence, fixed
 exchange rates and currency crises.
+
 </p>
 </details>
 
