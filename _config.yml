@@ -52,7 +52,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -97,7 +97,7 @@ author:
   name             : "Timo Haber"
   avatar           : "/assets/images/avatar1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student in Economics"
-  location         : "[University of Cambridge](https://www.econ.cam.ac.uk/people/phd/tfh27)"
+  location         : "University of Cambridge"
   email            : "habertimo@gmail.com"
   links:
     - label: "LinkedIn"
