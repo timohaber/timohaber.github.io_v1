@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Timo Haber"
-  # avatar           : "/assets/images/avatar1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student in Economics"
   location         : "University of Cambridge"
   email            : "habertimo@gmail.com"
