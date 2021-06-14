@@ -275,4 +275,4 @@ defaults:
       type: pages
     values:
       layout: splash
-      author_profile: true
+      author_profile: false
