@@ -6,8 +6,16 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
+    - label: "<i class='fas fa-download'></i> CV"
       url: "/docs/quick-start-guide/"
+    - label: "<i class='fab fa-fw fa-linkedin'></i> LinkedIn"
+      url: "https://www.linkedin.com/in/timohaber/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/timohaber"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/TimoHaber"
 excerpt: >
   PhD Student in Economics<br />
   <small><a href="https://www.econ.cam.ac.uk/people/phd/tfh27">University of Cambridge</a></small>
