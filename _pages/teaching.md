@@ -6,7 +6,9 @@ permalink: /teaching/
 ## Undergraduate Teaching
 <details><summary> Part IIA - Paper 2 </summary>
 <p>
-(Monetary Economics and International Macroeconomics](https://www.econ.cam.ac.uk/ba/outlines/Part_IIA_Paper_2.pdf)  
+
+[Monetary Economics and International Macroeconomics](https://www.econ.cam.ac.uk/ba/outlines/Part_IIA_Paper_2.pdf)  
+
 - Monetary economics: Monetary theory, policy and financial system, including rational
 expectations, policy ineffectiveness (New Classical economics), inflation bias, money
 demand, money supply process and banking system, central bank and monetary operating
