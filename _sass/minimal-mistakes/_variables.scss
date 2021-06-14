@@ -29,7 +29,13 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $sans-serif !default;
+// $doc-line-height: 26;
+// $base-font: 'PT Serif', serif;
+// $heading-font: 'PT Sans Narrow', sans-serif;
+// $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+// $alt-font: $base-font;
+
+$global-font-family: 'PT Serif', serif // $sans-serif !default;
 $header-font-family: $sans-serif !default;
 $caption-font-family: $sans-serif !default;
 
