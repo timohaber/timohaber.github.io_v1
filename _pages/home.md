@@ -1,7 +1,10 @@
 ---
-layout: splash
+# layout: splash
 permalink: /
 hidden: true
+excerpt: >
+  PhD Student in Economics<br />
+  <small><a href="https://www.econ.cam.ac.uk/people/phd/tfh27">University of Cambridge</a></small>
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
@@ -16,9 +19,7 @@ header:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TimoHaber"
-excerpt: >
-  PhD Student in Economics<br />
-  <small><a href="https://www.econ.cam.ac.uk/people/phd/tfh27">University of Cambridge</a></small>
+
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
