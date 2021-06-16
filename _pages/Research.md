@@ -4,11 +4,14 @@ permalink: /research/
 ---
 ## Work in Progress  
 
-# Te
+### Firm size, growth and financial conditions
+with Miguel Ferreira and Christian Rorig
+
+Using a unique dataset covering the universe of Portuguese firms and their credit situation we revisit the relation between firm characteristics, financial factors and their sensitivity to business fluctuations. First, we provide two stylized facts: (1) Financially constrained firms react more to the business cycle and this mechanism is orthogonal to the size channel proposed by Crouzet and Mehrotra (2020). (2) Constrained firms are found across the entire size distribution, also in the top percentiles, which is in contrast to what existing financial friction models would predict. Next, we show that ex-ante heterogeneity of firms, a possible explanatory factor, matters and persists over the firms' life cycle affecting constrained and unconstrained firms differently. Including permanent productivity heterogeneity in a financial frictions model can rationalise the stylized facts and larger constrained firms subsequently lead to stronger aggregate fluctuations.
 
 ## Publications  
 
-# ”Non-linearities, sticky prices and the transmission mechanism of monetary policy 
+### ”Non-linearities, sticky prices and the transmission mechanism of monetary policy 
 with Guido Ascari, 2021. Conditionally accepted at The Economic Journal  
 
 A sticky price theory of the transmission mechanism of monetary policy shocks
@@ -19,6 +22,7 @@ high trend infation regime, the response of the price level to monetary policy
 shocks should be larger and real effects smaller. Our analysis provides evidence
 supporting these non-linear effects in the response of the price level in aggregate US data, indicating state-dependent pricing as an important feature of the transmission mechanism of monetary policy.
 
+
 ## Other publications
 
-# Der Europische Stabilitatsmechanismus Version 2.0 - Ein Vorschlag zur Losung der europaischen Fiskalproblematik in ”Europa neu (er)finden im digitalen Zeitalter? Freiheit,Wohlstand und europ¨aische Integration”, Hanns Martin Schleyer-Stiftung, Band 93, Berlin 2019
+### Der Europische Stabilitatsmechanismus Version 2.0 - Ein Vorschlag zur Losung der europaischen Fiskalproblematik in ”Europa neu (er)finden im digitalen Zeitalter? Freiheit,Wohlstand und europ¨aische Integration”, Hanns Martin Schleyer-Stiftung, Band 93, Berlin 2019
