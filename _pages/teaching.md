@@ -3,12 +3,11 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Undergraduate Teaching
+<h3> Faculty of Economics, University of Cambridge </h4>
+
+<h4> Undergraduate Teaching </h4>
 <details><summary> 
-
 <a href="https://timohaber.github.io/assets/pdf/Part_IIA_Paper_2.pdf">Monetary Economics and International Macroeconomics</a>
-
-
 </summary>
 <ol>
 <li> <b>Monetary economics </b> <br>
@@ -25,7 +24,7 @@ exchange rates and currency crises. </li>
 </ol>
 </details>
 
-## Graduate Teaching
+<h4> Graduate Teaching </h4>
 
 <details><summary> 
 
