@@ -5,8 +5,8 @@ permalink: /research/
 
 ## Publications  
 
-  <h3>Non-linearities, sticky prices and the transmission mechanism of monetary policy </h3> with <a href="https://sites.google.com/site/guidoascari/"> Guido Ascari </a>, 2021. Conditionally accepted at <em> The Economic Journal </em>
-  <p>A sticky price theory of the transmission mechanism of monetary policy shocks based on state-dependent pricing yields two testable implications, that do not hold in time-dependent models. First, large monetary policy shocks should yield proportionally larger initial responses of the price level. Second, in a high trend infation regime, the response of the price level to monetary policy shocks should be larger and real effects smaller. Our analysis provides evidence supporting these non-linear effects in the response of the price level in aggregate US data, indicating state-dependent pricing as an important feature of the transmission mechanism of monetary policy.</p>
+  <h3>Non-linearities, sticky prices and the transmission mechanism of monetary policy </h3> with <a href="https://sites.google.com/site/guidoascari/"> Guido Ascari </a>, 2021. Conditionally accepted at <em> The Economic Journal </em>  
+  A sticky price theory of the transmission mechanism of monetary policy shocks based on state-dependent pricing yields two testable implications, that do not hold in time-dependent models. First, large monetary policy shocks should yield proportionally larger initial responses of the price level. Second, in a high trend infation regime, the response of the price level to monetary policy shocks should be larger and real effects smaller. Our analysis provides evidence supporting these non-linear effects in the response of the price level in aggregate US data, indicating state-dependent pricing as an important feature of the transmission mechanism of monetary policy.
  
 ## Work in Progress
 
