@@ -9,13 +9,10 @@ permalink: /research/
 
 
 
-<details><summary> 
-Firm size, growth and financial conditions <br>
-with Miguel Ferreira and Christian Rorig
-</summary>
-<p>
-Using a unique dataset covering the universe of Portuguese firms and their credit situation we revisit the relation between firm characteristics, financial factors and their sensitivity to business fluctuations. First, we provide two stylized facts: (1) Financially constrained firms react more to the business cycle and this mechanism is orthogonal to the size channel proposed by Crouzet and Mehrotra (2020). (2) Constrained firms are found across the entire size distribution, also in the top percentiles, which is in contrast to what existing financial friction models would predict. Next, we show that ex-ante heterogeneity of firms, a possible explanatory factor, matters and persists over the firms' life cycle affecting constrained and unconstrained firms differently. Including permanent productivity heterogeneity in a financial frictions model can rationalise the stylized facts and larger constrained firms subsequently lead to stronger aggregate fluctuations.
-</p>
+<details>
+  <summary> 
+  Firm size, growth and financial conditions <br> with Miguel Ferreira and Christian Rorig </summary>
+  <p> Using a unique dataset covering the universe of Portuguese firms and their credit situation we revisit the relation between firm characteristics, financial factors and their sensitivity to business fluctuations. First, we provide two stylized facts: (1) Financially constrained firms react more to the business cycle and this mechanism is orthogonal to the size channel proposed by Crouzet and Mehrotra (2020). (2) Constrained firms are found across the entire size distribution, also in the top percentiles, which is in contrast to what existing financial friction models would predict. Next, we show that ex-ante heterogeneity of firms, a possible explanatory factor, matters and persists over the firms' life cycle affecting constrained and unconstrained firms differently. Including permanent productivity heterogeneity in a financial frictions model can rationalise the stylized facts and larger constrained firms subsequently lead to stronger aggregate fluctuations.</p>
 </details>
 
 
