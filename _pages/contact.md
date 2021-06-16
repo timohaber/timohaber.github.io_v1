@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 ### Address
 <address>
-  Faculty of Economics <br /> Austin Robinson Bulding <br /> Sidgwick Avenue <br /> Cambridge <br /> CB3 9DD
+  Faculty of Economics <br /> Austin Robinson Bulding <br /> Sidgwick Avenue <br /> Cambridge <br /> CB3 9DD  <br /> United Kingdom
 </address>
 
 ---

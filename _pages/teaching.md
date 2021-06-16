@@ -33,10 +33,7 @@ exchange rates and currency crises. </li>
 
 </summary>
 
-<p
-
 The course provides the foundations and core topics of advanced macroeconomic theory that is used for macroeconomic research. It includes techniques (e.g. definition of general equilibrium, elements of dynamic programming and optimal control theory, etc.) and two broad macroeconomic topics, economic growth and business cycle theory (in the context of DSGE modelling).
-</p>
 </details>
 
 
@@ -45,11 +42,8 @@ The course provides the foundations and core topics of advanced macroeconomic th
 <a href="https://timohaber.github.io/assets/pdf/E200.pdf"> Solow Growth, Consumption and Investment </a> | 2018-2021 
 
 </summary>
-
-<p
-
 The purpose of this course is to introduce students to major questions and theories in neoclassical economics. The goal is to develop the “tools and tastes” necessary to understand the main models of economic growth and business cycle. First, it discusses the Solow-Swan model with exogenous technological progress and savings decision. We analyse the equilibrium of the model and the comparative dynamics around the steady state. Second, we study the microfoundation of consumption and then we study the business cycles phenomena and set up a simple model, which can generate some business cycle facts. Finally we look deeper into investment theory
-</p>
+
 </details>
 
 
